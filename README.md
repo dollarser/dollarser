@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+- 个人状态统计
+-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dollarser&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
 
-Python
+<!--
+- 技术栈
+-->
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -34,12 +39,3 @@ Python
 ## 博客
 
 http://blog.ahulearn.com/
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dollarser)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- 访客 -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=dollaser.dollaser" alt="visitor badge"/>
-</p>
