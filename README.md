@@ -36,6 +36,8 @@ Python
 http://blog.ahulearn.com/
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dollarser)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 访客 -->
 <p align="center">
