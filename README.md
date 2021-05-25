@@ -1,5 +1,3 @@
-[![Header](blob:https://www.bilibili.com/1500cf8b-0028-45ef-bece-93e2b838549d)](https://blog.ahulearn.com/)
-
 ## 技术栈 Github 统计
 
 <!--
@@ -21,11 +19,7 @@ Here are some ideas to get you started:
 - 个人状态统计
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dollarser&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-- 技术栈
--->
+JAVA
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
