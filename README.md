@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ## 博客
 
-http://blog.ahulearn.com/
+http://blog.sunlingzhang.com/
